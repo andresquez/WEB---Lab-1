@@ -19,7 +19,12 @@ $$/   $$/ $$/   $$/  $$$$$$$/ $$/        $$$$$$$/ $$$$$$$/         $$$$$$  | $$$
 
 #2 - Output de: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>. en Brainf*ck:
 
-Hello World! (compilado en: https://www.tutorialspoint.com/execute_brainfk_online.php)
+@bf
+Enter line(s) of Brainfuck code. Press control-D to execute.
+: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+: 
+Hello World!
+
 
 
 #3 - En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia? 
@@ -99,3 +104,25 @@ A phone from Uranus subverts the dancing sword.
 @morse
 message? ye shall be as gods
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+#8 - ¿Cuál es la ubicación de su ip? ¿Y su ip pública?
+
+@geoip
+181.209.152.243
+Guatemala
+
+  Autonomous System    AS14754 Telgua
+  Continent            North America
+  Country              Guatemala
+  Subdivision          Guatemala Department
+  City                 Guatemala City
+  Postal Code          01010
+  Time Zone            America/Guatemala (UTC-06:00)
+  Latitude, Longitude  14.6343, -90.5155 (+/- 20 km)
+
+@ipaddr
+181.209.152.243
+Guatemala
+
+
+
