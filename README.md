@@ -241,3 +241,8 @@ $$/   $$/ $$/   $$/  $$$$$$$/ $$/        $$$$$$$/ $$$$$$$/         $$$$$$  | $$$
                 `--. 
                     `---
    @
+
+#13 - ¿Cuál fue el mejor chiste que les contó el sitio?
+
+@joke
+Music . . . can name the unnameable and communicate the unknowable.
