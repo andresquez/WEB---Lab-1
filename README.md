@@ -51,3 +51,41 @@ _______________________(_)(__\_____[_]_____[_]_____________________
                 ||     ||
                 
       
+#5 - ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+
+@eliza
+HELLO, I AM ELIZA.
+
+hi
+
+HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.
+
+what is life?
+
+HAVE YOU ASKED SUCH QUESTIONS BEFORE?
+
+yes
+
+I UNDERSTAND.
+
+what is life?
+
+WHAT IS IT YOU REALLY WANT TO KNOW?
+
+the meaning of life
+
+PERHAPS I AM A SUBSTITUTE FOR SOMEONE YOU WOULD RATHER TALK TO?
+
+maybe
+
+COME ON, TRY A BIT HARDER!
+
+what is life?
+
+HAVE YOU ASKED SUCH QUESTIONS BEFORE?
+
+bye
+
+HAVE A GOOD REST.
+
+@
