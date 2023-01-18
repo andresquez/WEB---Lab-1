@@ -163,3 +163,20 @@ text? May the command line live forever
 ##################################################################
 .
 
+#10 -  ¿Donde está ubicado en host bkj386?
+
+@uumap
+host? bkj386
+#N      bkj386
+#S      CSS 386 AT Clone; Xenix 386 2.3.3
+#O      Institute of Total Disorganization
+#C      Brian K. Jenkins
+#E      bkj386!postmaster
+#T      +1 416 274 8369
+#P      1557 Tyandaga Crt., Mississauga, Ontario, Canada L5H 3L4.
+#L      43 34 10 N / 79 41 2 W city
+#W      bkj386!brian (Brian Jenkins); Thu Mar 28 09:00:00 EST 1992
+#
+bkj386  moore(DIRECT+HIGH), bkjlap(DEMAND),
+        wst386(DIRECT+LOW), analsyn(DIRECT+LOW),
+        psican(DEMAND), xbrix(DIRECT+LOW)
