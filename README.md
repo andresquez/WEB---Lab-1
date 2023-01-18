@@ -89,5 +89,13 @@ bye
 HAVE A GOOD REST.
 
 #6 - Coloquen un ejemplo de un fnord
+
 @fnord
 A phone from Uranus subverts the dancing sword.
+
+
+#7 - Traduzcan la siguiente frase a clave morse:
+
+@morse
+message? ye shall be as gods
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
