@@ -88,4 +88,6 @@ bye
 
 HAVE A GOOD REST.
 
-@
+#6 - Coloquen un ejemplo de un fnord
+@fnord
+A phone from Uranus subverts the dancing sword.
